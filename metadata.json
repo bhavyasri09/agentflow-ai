@@ -1,0 +1,6 @@
+{
+  "name": "AgentFlow AI",
+  "description": "Automated AI Training Data Generator — From Web Research to AI-Ready Training Datasets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
